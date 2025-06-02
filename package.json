@@ -28,7 +28,7 @@
     "@angular/common": "13.4.0",
     "@angular/core": "13.4.0",
     "@angular/forms": "13.4.0",
-    "@angular/localize": "13.4.0",
+    "@angular/localize": "20.0.0",
     "@angular/platform-browser": "13.4.0",
     "@angular/platform-browser-dynamic": "13.4.0",
     "@angular/router": "13.4.0",
